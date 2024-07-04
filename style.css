@@ -546,6 +546,6 @@ span {
   text-align: right;
   cursor: pointer;
 }
-/* .show{
+.show{
   display: block;
-} */
+}
